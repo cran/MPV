@@ -32,6 +32,5 @@ data(p4.18)
 y.lm <- lm(y ~ x1 + x2 + x3, data=p4.18)
 summary(y.lm)
 y.lm <- lm(y ~ x1, data=p4.18)
-lof.lm(y.lm)
 }
 \keyword{datasets}

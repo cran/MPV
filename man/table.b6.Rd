@@ -32,7 +32,6 @@ data(table.b6)
 attach(table.b6)
 y.lm <- lm(y ~ x1 + x4)
 summary(y.lm)
-vif(y.lm)
 detach(table.b6)
 }
 \keyword{datasets}

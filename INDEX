@@ -1,14 +1,13 @@
-cement                  Cement Data 
-lof.lm                  Lack of Fit Test
+cement                  Cement Data
 p11.12                  Data For Problem 11-12
 p11.15                  Data set for Problem 11-15
 p12.11                  Data Set for Problem 12-11
 p12.12                  Data Set for Problem 12-12
 p12.8                   Data Set for Problem 12-8
-p13.1                   Data Set for Problem 13-1
 p13.16                  Data Set for Problem 13-16
-p13.2                   Data Set for Problem 13-2
+p13.1                   Data Set for Problem 13-1
 p13.20                  Data Set for Problem 13-20
+p13.2                   Data Set for Problem 13-2
 p13.3                   Data Set for Problem 13-3
 p13.4                   Data Set for Problem 13-4
 p13.5                   Data Set for Problem 13-5
@@ -27,34 +26,35 @@ p2.7                    Data Set for Problem 2-7
 p2.9                    Data Set for Problem 2-9
 p4.18                   Data Set for Problem 4-18
 p4.19                   Data Set for Problem 4-19
-p4.20                   Data Set for Problem 4-20 
-p5.1                    Data Set for Problem 5-1
+p4.20                   Data Set for Problem 4-20
 p5.10                   Data Set for Problem 5-10
 p5.11                   Data Set for Problem 5-11
+p5.1                    Data Set for Problem 5-1
 p5.2                    Data Set for Problem 5-2
 p5.3                    Data Set for Problem 5-3
 p5.4                    Data Set for Problem 5-4
 p5.5                    Data Set for Problem 5-5
-p7.1                    Data Set for Problem 7-1
 p7.11                   Data Set for Problem 7-11
 p7.15                   Data Set for Problem 7-15
 p7.16                   Data Set for Problem 7-16
 p7.19                   Data Set for Problem 7-19
+p7.1                    Data Set for Problem 7-1
 p7.2                    Data Set for Problem 7-2
 p7.4                    Data Set for Problem 7-4
 p7.6                    Data Set for Problem 7-6
 p8.11                   Data Set for Problem 8-11
 p8.3                    Data Set for Problem 8-3
 p9.10                   Data Set for Problem 9-10
+quadline                Quadratic Overlay
 softdrink               Softdrink Data
 solar                   Solar Data
 stackloss               Stackloss Data
-table.b1                Table B1
 table.b10               Table B10
 table.b11               Table B11
 table.b12               Table B12
 table.b13               Table B13
 table.b14               Table B14
+table.b1                Table B1
 table.b2                Table B2
 table.b3                Table B3
 table.b4                Table B4
@@ -63,4 +63,3 @@ table.b6                Data Set for Table B6
 table.b7                Data Set for Table B7
 table.b8                Table B8
 table.b9                Data Set for Table B9
-vif                     Variance Inflation Factors

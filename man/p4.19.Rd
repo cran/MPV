@@ -33,7 +33,6 @@ y.lm <- lm(y ~ x1 + x2 + x3)
 summary(y.lm)
 plot(y.lm, which=1)
 y.lm <- lm(y ~ x1)
-lof.lm(y.lm)
 detach(p4.19)
 }
 \keyword{datasets}

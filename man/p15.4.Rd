@@ -12,9 +12,7 @@ The \code{p15.4} data frame has 40 rows and 4 columns.
     \item{x1}{a numeric vector}
     \item{x2}{a numeric vector}
     \item{y}{a numeric vector}
-    \item{set}{a factor with levels}
-    \item{set}{\code{e} }
-    \item{set}{\code{p} }
+    \item{set}{a factor with levels \code{e} and \code{p}}
   }
 }
 \source{
