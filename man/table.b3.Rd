@@ -21,7 +21,7 @@ mileage performance for 32 different automobiles.
     \item{x8}{Overall length (in)}
     \item{x9}{Width (in)}
     \item{x10}{Weight (lb)}
-    \item{x11}{Type of transmission (A=automatic, M=manual)}
+    \item{x11}{Type of transmission (1=automatic, 0=manual)}
   }
 }
 \source{
