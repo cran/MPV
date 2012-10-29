@@ -1,6 +1,5 @@
 \name{table.b13}
 \alias{table.b13}
-\non_function{}
 \title{Table B13}
 \usage{data(table.b13)}
 \description{

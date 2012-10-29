@@ -1,6 +1,5 @@
 \name{p7.2}
 \alias{p7.2}
-\non_function{}
 \title{Data Set for Problem 7-2}
 \usage{data(p7.2)}
 \description{

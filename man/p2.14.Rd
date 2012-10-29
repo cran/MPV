@@ -1,6 +1,5 @@
 \name{p2.14}
 \alias{p2.14}
-\non_function{}
 \title{Data Set for Problem 2-14}
 \usage{data(p2.14)}
 \description{
@@ -19,7 +18,7 @@ One is interested in predicting viscosity from the sebacic acid ratio.
  Montgomery, D.C., Peck, E.A., and Vining, C.G. (2001)
 Introduction to Linear Regression Analysis. 3rd Edition, John Wiley and Sons.
 }
-\reference{
+\references{
 Hsuie, Ma, and Tsai (1995) Separation and Characterizations of 
 Thermotropic Copolyesters of p-Hydroxybenzoic Acid, Sebacic Acid and
 Hydroquinone. Journal of Applied Polymer Science, 56, 471-476.

@@ -1,6 +1,5 @@
 \name{p2.16}
 \alias{p2.16}
-\non_function{}
 \title{Data Set for Problem 2-16}
 \usage{data(p2.16)}
 \description{
@@ -18,7 +17,7 @@ pressure in a tank the volume of liquid.
  Montgomery, D.C., Peck, E.A., and Vining, C.G. (2001)
 Introduction to Linear Regression Analysis. 3rd Edition, John Wiley and Sons.
 }
-\reference{
+\references{
 Carroll and Spiegelman (1986) The Effects of Ignoring Small Measurement
 Errors in Precision Instrument Calibration. Journal of Quality Technology,
 18, 170-173.  

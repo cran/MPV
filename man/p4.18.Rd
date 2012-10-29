@@ -1,6 +1,5 @@
 \name{p4.18}
 \alias{p4.18}
-\non_function{}
 \title{Data Set for Problem 4-18}
 \usage{data(p4.18)}
 \description{
@@ -20,7 +19,7 @@ experiment to produce a synthetic analogue to jojoba oil.
  Montgomery, D.C., Peck, E.A., and Vining, C.G. (2001)
 Introduction to Linear Regression Analysis. 3rd Edition, John Wiley and Sons.
 }
-\reference{
+\references{
 Coteron, Sanchez, Matinez, and Aracil (1993) 
 Optimization of the Synthesis of an Analogue of Jojoba Oil Using
 a Fully Central Composite Design. Canadian Journal of Chemical

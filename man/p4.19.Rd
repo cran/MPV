@@ -1,6 +1,5 @@
 \name{p4.19}
 \alias{p4.19}
-\non_function{}
 \title{Data Set for Problem 4-19}
 \usage{data(p4.19)}
 \description{

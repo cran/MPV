@@ -1,6 +1,5 @@
 \name{solar}
 \alias{solar}
-\non_function{}
 \title{Solar Data}
 \usage{data(solar)}
 \description{

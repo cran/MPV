@@ -1,6 +1,5 @@
 \name{softdrink}
 \alias{softdrink}
-\non_function{}
 \title{Softdrink Data}
 \usage{data(softdrink)}
 \description{

@@ -1,6 +1,5 @@
 \name{p2.15}
 \alias{p2.15}
-\non_function{}
 \title{Data Set for Problem 2-15}
 \usage{data(p2.15)}
 \description{
@@ -20,7 +19,7 @@ fraction of toluene.
  Montgomery, D.C., Peck, E.A., and Vining, C.G. (2001)
 Introduction to Linear Regression Analysis. 3rd Edition, John Wiley and Sons.
 }
-\reference{
+\references{
 Byers and Williams (1987) Viscosities of Binary and Ternary Mixtures
 of Polynomatic Hydrocarbons. Journal of Chemical and Engineering
 Data, 32, 349-354.

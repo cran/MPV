@@ -1,6 +1,5 @@
 \name{p9.10}
 \alias{p9.10}
-\non_function{}
 \title{Data Set for Problem 9-10}
 \usage{data(p9.10)}
 \description{
@@ -24,7 +23,7 @@ different conditions.
  Montgomery, D.C., Peck, E.A., and Vining, C.G. (2001)
 Introduction to Linear Regression Analysis. 3rd Edition, John Wiley and Sons.
 }
-\reference{
+\references{
 Gorman and Toman (1966) 
 }
 \examples{

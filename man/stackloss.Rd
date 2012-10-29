@@ -1,6 +1,5 @@
 \name{stackloss}
 \alias{stackloss}
-\non_function{}
 \title{Stackloss Data}
 \usage{data(stackloss)}
 \description{

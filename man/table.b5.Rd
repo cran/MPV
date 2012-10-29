@@ -1,6 +1,5 @@
 \name{table.b5}
 \alias{table.b5}
-\non_function{}
 \title{Data Set for Table B5}
 \usage{data(table.b5)}
 \description{

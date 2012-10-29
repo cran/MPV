@@ -1,6 +1,5 @@
 \name{p2.13}
 \alias{p2.13}
-\non_function{}
 \title{Data Set for Problem 2-13}
 \usage{data(p2.13)}
 \description{
@@ -22,9 +21,9 @@ temperature.}
  Montgomery, D.C., Peck, E.A., and Vining, C.G. (2001)
 Introduction to Linear Regression Analysis. 3rd Edition, John Wiley and Sons.
 }
-\reference{
-Davidson (1993) Update on Ozone Trends in California's South Coast Air 
-Basin. Air and Waste, 43, 226.
+\references{
+Davidson, A. (1993) Update on Ozone Trends in California's South Coast Air 
+Basin. \emph{Air Waste}, 43, 226-227.
 }
 \examples{
 data(p2.13)

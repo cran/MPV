@@ -1,6 +1,5 @@
 \name{cement}
 \alias{cement}
-\non_function{}
 \title{ Cement Data }
 \usage{data(cement)}
 \description{
