@@ -1,7 +1,11 @@
-60847ba92240a15e3cdf052c4b7117bd *DESCRIPTION
+861db5ff059e6ef7b2eda3be37ac96b6 *DESCRIPTION
 8b54e5a89fbda3af5e077053d40bec76 *NAMESPACE
 b1b6f8991708767c0621148f27fe5984 *R/PRESS.R
+751e0f2640c2fbb3b4230fca508c9fff *R/Qyplot.R
+57a27801c02e97e34f41e0a2813e53ee *R/Uplot.R
+aaff2cf37e4add21126a1ecb1f0965c4 *R/qqANOVA.R
 c23ff8e15870f0ed93c806943208163f *R/quadline.R
+63475c3a270a93721b1533e0834ecf21 *R/tplot.R
 b2ef713fa7fcb99d2941cb1234390255 *data/cement.rda
 f4119e373212fd968ded9183db19aaca *data/p11.12.rda
 57ce4e83bb8555e0628a3b6f3b058580 *data/p11.15.rda
@@ -49,6 +53,7 @@ ce724e0671c6d4fedb706056e8e92d1c *data/p7.19.rda
 32c4596ae28645000266ac19a2c2af0e *data/p8.11.rda
 6f478037b189b76fb68a1dd617c23a0b *data/p8.3.rda
 6e298ecf3e223f7bf13c963c1691ca86 *data/p9.10.rda
+e20fc0c7827cbfecce45471a51a7ba99 *data/pathoeg.rda
 d3c02627c7b12e324e54dce38e704408 *data/softdrink.rda
 a4e9791a1923cd38fb596f08dcd23d3c *data/solar.rda
 9e806e4812773357abfcd147eae6faed *data/stackloss.rda
@@ -67,6 +72,8 @@ d39d5f0b4917b0e2fdb1b31a5e170aba *data/table.b14.rda
 b5f8dc4eaf64f9a6b2720e2a05575a4c *data/table.b8.rda
 4ee8356dae64f4bf1eeaccdf537ad0fa *data/table.b9.rda
 f42307d5e76e0f5bbb2eee81a407b7a0 *man/PRESS.Rd
+5bd6d5a44cbc1ef5a8fceb36ccd01432 *man/Qyplot.Rd
+1b327d7347725fef367a437f43bd5424 *man/Uplot.Rd
 96d036ba63cb39ef7ad4d23136c1d325 *man/cement.Rd
 c2f64f299ca18a74616ebc6d7910c437 *man/p11.12.Rd
 d587834d10715d32880812e41abb45fb *man/p11.15.Rd
@@ -114,6 +121,8 @@ b032234bba1e2b994a9df511313292bd *man/p7.6.Rd
 d95d544165bf8b9afa110c0f310c7954 *man/p8.11.Rd
 b2b7d9624d56b588f5edb40094901070 *man/p8.3.Rd
 f95ad773b2b78a67ea977e6ef1b0b16f *man/p9.10.Rd
+b752ed8c9e2410c0c3f8a9fe91369f93 *man/pathoeg.Rd
+616e2a79310f46c1ffff8504999826cf *man/qqANOVA.Rd
 a49b5e95c371752a9e0f3e5be5ce2fba *man/quadline.Rd
 18ffb39a6186533c3dba3a20637d1bd4 *man/softdrink.Rd
 c3a83eb65754fe8cb9589ce589a823b6 *man/solar.Rd
@@ -132,3 +141,4 @@ be7222a21a4c6a7e3c7c80045965ae04 *man/table.b6.Rd
 2a71a47d45dbfcbfc1d388638005fbf7 *man/table.b7.Rd
 519e5fb6ddbfebd178684303e4329758 *man/table.b8.Rd
 2d285a20193e321baccbfb2b29b0364d *man/table.b9.Rd
+41e8568318c75215f524545b63ee380e *man/tplot.Rd
