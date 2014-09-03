@@ -1,5 +1,7 @@
-861db5ff059e6ef7b2eda3be37ac96b6 *DESCRIPTION
+ca2ac82ef31497ec6c97a7cfc78bc865 *DESCRIPTION
 8b54e5a89fbda3af5e077053d40bec76 *NAMESPACE
+0992b8eee1b056f8d3805182acc30e1b *R/GFplot.R
+daad40a5f7000a8ac68e6f63868c6c1b *R/GRegplot.R
 b1b6f8991708767c0621148f27fe5984 *R/PRESS.R
 751e0f2640c2fbb3b4230fca508c9fff *R/Qyplot.R
 57a27801c02e97e34f41e0a2813e53ee *R/Uplot.R
@@ -53,7 +55,7 @@ ce724e0671c6d4fedb706056e8e92d1c *data/p7.19.rda
 32c4596ae28645000266ac19a2c2af0e *data/p8.11.rda
 6f478037b189b76fb68a1dd617c23a0b *data/p8.3.rda
 6e298ecf3e223f7bf13c963c1691ca86 *data/p9.10.rda
-e20fc0c7827cbfecce45471a51a7ba99 *data/pathoeg.rda
+80f10902ac103de508c927280d69eb09 *data/pathoeg.rda
 d3c02627c7b12e324e54dce38e704408 *data/softdrink.rda
 a4e9791a1923cd38fb596f08dcd23d3c *data/solar.rda
 9e806e4812773357abfcd147eae6faed *data/stackloss.rda
@@ -71,9 +73,11 @@ d39d5f0b4917b0e2fdb1b31a5e170aba *data/table.b14.rda
 9f6b36e73172b479af4aef3f6afe2dfa *data/table.b7.rda
 b5f8dc4eaf64f9a6b2720e2a05575a4c *data/table.b8.rda
 4ee8356dae64f4bf1eeaccdf537ad0fa *data/table.b9.rda
+17b197fad8c59a697956bf7e7033042c *man/GFplot.Rd
+403621c3c5e2781c5e8674148f560029 *man/GRegplot.Rd
 f42307d5e76e0f5bbb2eee81a407b7a0 *man/PRESS.Rd
 5bd6d5a44cbc1ef5a8fceb36ccd01432 *man/Qyplot.Rd
-1b327d7347725fef367a437f43bd5424 *man/Uplot.Rd
+83699b7e56b61c60afd67adb6db7af79 *man/Uplot.Rd
 96d036ba63cb39ef7ad4d23136c1d325 *man/cement.Rd
 c2f64f299ca18a74616ebc6d7910c437 *man/p11.12.Rd
 d587834d10715d32880812e41abb45fb *man/p11.15.Rd
