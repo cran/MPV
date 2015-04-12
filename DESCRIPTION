@@ -1,6 +1,6 @@
 Package: MPV
 Title: Data Sets from Montgomery, Peck and Vining's Book
-Version: 1.35
+Version: 1.38
 Author: W.J. Braun
 Description: Most of this package consists of data sets from the 
              textbook Introduction
@@ -13,7 +13,7 @@ LazyData: true
 Depends: R (>= 2.0.1)
 ZipData: no
 License: Unlimited
-Packaged: 2014-09-03 12:45:46 UTC; braun
+Packaged: 2015-04-12 16:48:28 UTC; johbraun
 NeedsCompilation: no
 Repository: CRAN
-Date/Publication: 2014-09-03 18:07:16
+Date/Publication: 2015-04-12 22:54:19

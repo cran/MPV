@@ -8,13 +8,14 @@ This function graphically displays the coefficient multipliers
 used in the Regression Plot for the given predictor.
 }
 \usage{
-Uplot(X.qr, Xcolumn = 1)
+Uplot(X.qr, Xcolumn = 1, ...)
 }
 \arguments{
   \item{X.qr}{The design matrix or the QR decomposition of the design matrix.
 }
   \item{Xcolumn}{The column(s) of the design matrix under study; this
 can be either integer valued or a character string.}
+  \item{...}{Additional arguments to barchart.}
 }
 \value{A bar plot is displayed.}
 \author{

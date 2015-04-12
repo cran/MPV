@@ -1,4 +1,4 @@
-Uplot <- function (X.qr, Xcolumn=1) {
+Uplot <- function (X.qr, Xcolumn=1, ...) {
     if (class(X.qr) !="qr") {
         X <- X.qr
         p <- ncol(X)
@@ -20,6 +20,6 @@ Uplot <- function (X.qr, Xcolumn=1) {
     }
     par(mfcol=layout)
     for (i in Xcols) {
-        barplot(abs(R[i,]), axes=FALSE, xlab="", ylab=colnames(R)[i])
+        barplot(abs(R[i,]), axes=FALSE, xlab="", ylab=colnames(R)[i], ...)
     }
 }

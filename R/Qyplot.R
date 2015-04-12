@@ -19,7 +19,7 @@ Qyplot <- function (X, y, plotIt=TRUE, sortTrt=FALSE, type="hist", includeInterc
         errors <- Qty[-(1:p)]
     }
     if (plotIt) {
-        if (!includeIntercept) {
+        if (!(includeIntercept==TRUE)) {
             index <- which(names(X)=="x0")
             Rb <- Rb[-index]
             X <- X[,-index]
