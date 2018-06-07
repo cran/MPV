@@ -1,7 +1,7 @@
 \name{pathoeg}
 \alias{pathoeg}
 \title{Pathological Example}
-\usage{litters}
+\usage{pathoeg}
 \description{
 Artificial regression data which causes stepwise regression
 with AIC to produce a highly non-parsimonious model.  The

@@ -9,7 +9,7 @@ allows visualization of the usual F-test for significance
 of regression.
 }
 \usage{
-GRegplot(X, y, sortTrt=FALSE, includeIntercept=TRUE, type=c("hist", "dot"))
+GRegplot(X, y, sortTrt=FALSE, includeIntercept=TRUE, type="hist")
 }
 \arguments{
   \item{X}{The design matrix.

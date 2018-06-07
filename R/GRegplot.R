@@ -1,4 +1,4 @@
-GRegplot <- function(X, y, sortTrt = FALSE, includeIntercept = TRUE, type=c("hist", "dot")) 
+GRegplot <- function(X, y, sortTrt = FALSE, includeIntercept = TRUE, type="hist") 
     {
     Qy.out <- GFplot(X, y, plotIt = FALSE, sortTrt, type = "hist", includeIntercept, 
 labels)
