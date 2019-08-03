@@ -3,5 +3,7 @@ importFrom("grDevices", "palette", "rainbow")
              "mtext", "par", "plot", "points", "rug", "segments",
              "stripchart")
   importFrom("stats", "IQR", "approx", "coefficients", "lm.influence",
-             "model.matrix", "predict", "qt", "resid", "sd", "spline")
+             "model.matrix", "predict", "qt", "resid", "sd", "spline", 
+             "approxfun", "dnorm", "qnorm")
+  importFrom("KernSmooth", "locpoly")
 exportPattern("^[[:alpha:]]+")
