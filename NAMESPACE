@@ -1,9 +1,10 @@
-importFrom("grDevices", "palette", "rainbow")
-  importFrom("graphics", "abline", "barplot", "hist", "legend", "lines",
+    importFrom("grDevices", "palette", "rainbow")
+    importFrom("graphics", "abline", "barplot", "hist", "legend", "lines",
              "mtext", "par", "plot", "points", "rug", "segments",
              "stripchart")
-  importFrom("stats", "IQR", "approx", "coefficients", "lm.influence",
+    importFrom("stats", "IQR", "approx", "coefficients", "lm.influence",
              "model.matrix", "predict", "qt", "resid", "sd", "spline", 
              "approxfun", "dnorm", "qnorm")
-  importFrom("KernSmooth", "locpoly")
-exportPattern("^[[:alpha:]]+")
+    importFrom("KernSmooth", "locpoly") 
+    importFrom("lattice", "xyplot")
+    exportPattern("^[[:alpha:]]+")
