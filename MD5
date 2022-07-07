@@ -1,4 +1,4 @@
-1706cbf9dcb033d2b33a68ef8af6eef0 *DESCRIPTION
+6e84b2f8ba8083bc845bd23155e13582 *DESCRIPTION
 49cbb37f7429e42e17d218e15cb8afad *NAMESPACE
 849bcd23aeedd42bb3b8201c6022ab09 *R/BCCIPlot.R
 3ed53407729fe38d018ffbcbe2b53e90 *R/BCLPBias.R
@@ -9,7 +9,7 @@ d73f3e990809ce62c99c17770b8fdb0d *R/BiasVarPlot.R
 7f9d5f61fb1cecbabb481065f87bd238 *R/LPBias.R
 b1b6f8991708767c0621148f27fe5984 *R/PRESS.R
 61380434f0c28568d14cc2687895de55 *R/Qyplot.R
-b7c46a9311a99f46b5090c0ffab3c452 *R/Uplot.R
+ab3d6becfccb771f9822bd4a28b235b5 *R/Uplot.R
 aaff2cf37e4add21126a1ecb1f0965c4 *R/qqANOVA.R
 c23ff8e15870f0ed93c806943208163f *R/quadline.R
 63475c3a270a93721b1533e0834ecf21 *R/tplot.R
@@ -74,6 +74,7 @@ ce724e0671c6d4fedb706056e8e92d1c *data/p7.19.rda
 6f478037b189b76fb68a1dd617c23a0b *data/p8.3.rda
 6e298ecf3e223f7bf13c963c1691ca86 *data/p9.10.rda
 b1df110daef642f7fa908a8f2324af2a *data/pathoeg.rda
+6ef1e63d3c6d0655989c643c28a1b9f3 *data/radon.rda
 af05358bab8dd09f4a0a33e16651605a *data/seismictimings.rda
 d3c02627c7b12e324e54dce38e704408 *data/softdrink.rda
 a4e9791a1923cd38fb596f08dcd23d3c *data/solar.rda
@@ -168,6 +169,7 @@ f95ad773b2b78a67ea977e6ef1b0b16f *man/p9.10.Rd
 9b7563754a23a0ac905b644581bdaf8c *man/pathoeg.Rd
 616e2a79310f46c1ffff8504999826cf *man/qqANOVA.Rd
 a49b5e95c371752a9e0f3e5be5ce2fba *man/quadline.Rd
+71464fd2ebbf7ae8db2ba9283fec051f *man/radon.Rd
 e8c08b84db7afc0f3d2f73990355fdbf *man/seismictimings.Rd
 18ffb39a6186533c3dba3a20637d1bd4 *man/softdrink.Rd
 c3a83eb65754fe8cb9589ce589a823b6 *man/solar.Rd

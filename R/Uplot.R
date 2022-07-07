@@ -1,5 +1,5 @@
 Uplot <- function (X.qr, Xcolumn=1, ...) {
-    if (class(X.qr) !="qr") {
+    if (!inherits(X.qr, "qr")) {
         X <- X.qr
         p <- ncol(X)
         n <- nrow(X)
