@@ -1,4 +1,4 @@
-6e84b2f8ba8083bc845bd23155e13582 *DESCRIPTION
+2716d082b84fff5926ebae9259300bda *DESCRIPTION
 49cbb37f7429e42e17d218e15cb8afad *NAMESPACE
 849bcd23aeedd42bb3b8201c6022ab09 *R/BCCIPlot.R
 3ed53407729fe38d018ffbcbe2b53e90 *R/BCLPBias.R
@@ -96,6 +96,7 @@ b5f8dc4eaf64f9a6b2720e2a05575a4c *data/table.b8.rda
 7e459bc1b9982a27cbd72ce650fca953 *data/tarimage.rda
 6f9bf69bfadb7039f42b9085abea6c18 *data/tree.sample.rda
 86c2a370b4f7420aba98a5618a5bd98f *data/windWin80.rda
+06cb92229c064ed7907f8e7b29134480 *data/wxNWO.rda
 c720e42422a4fca0d72f9525a3ede68c *man/BCCIPlot.Rd
 800338b40029c73960e33aec754c8aa6 *man/BCLPBias.Rd
 c3c5fdc63054d902a9c86dacb1f3b666 *man/BiasVarPlot.Rd
@@ -192,3 +193,4 @@ a0386aa8c5cd7e1a9fca0e49451e1c33 *man/tarimage.Rd
 41e8568318c75215f524545b63ee380e *man/tplot.Rd
 62c507a8e96731c4a0c4016ae4285a5c *man/tree.sample.Rd
 a29eeb6cc163b67d37fe8a774016e34e *man/windWin80.Rd
+19101672e1c3e4f8b1c12c1c2130e86a *man/wxNWO.Rd
