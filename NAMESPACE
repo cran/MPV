@@ -4,7 +4,8 @@
              "stripchart")
     importFrom("stats", "IQR", "approx", "coefficients", "lm.influence",
              "model.matrix", "predict", "qt", "resid", "sd", "spline", 
-             "approxfun", "dnorm", "qnorm")
+             "approxfun", "dnorm", "qnorm", "lm")
     importFrom("KernSmooth", "locpoly") 
     importFrom("lattice", "xyplot")
+    importFrom("randomForest", "randomForest")
     exportPattern("^[[:alpha:]]+")
