@@ -1,6 +1,7 @@
 \name{cement}
 \alias{cement}
-\title{ Cement Data }
+\alias{table.b21}
+\title{Table B21 - Cement Data }
 \usage{data(cement)}
 \description{
 The \code{cement} data frame has 13 rows and 5 columns.

@@ -1,5 +1,7 @@
 \name{p2.9}
 \alias{p2.9}
+\alias{eg2.9}
+\alias{table2.11}
 \title{Data Set for Problem 2-9}
 \usage{data(p2.9)}
 \description{
@@ -9,8 +11,8 @@ help on \code{softdrink} for details.
 \format{
   This data frame contains the following columns:
   \describe{
-    \item{y}{a numeric vector}
-    \item{x}{a numeric vector}
+    \item{y}{a numeric vector: time}
+    \item{x}{a numeric vector: cases stocked}
   }
 }
 
