@@ -7,5 +7,5 @@
              "approxfun", "dnorm", "qnorm", "lm")
     importFrom("KernSmooth", "locpoly") 
     importFrom("lattice", "xyplot")
-    importFrom("randomForest", "randomForest")
+    importFrom("utils", "unstack")
     exportPattern("^[[:alpha:]]+")

@@ -22,7 +22,4 @@ The \code{table.b23} data frame has 59 observations on 8 variables.
  Montgomery, D.C., Peck, E.A., and Vining, C.G. (2021)
 Introduction to Linear Regression Analysis. 6th Edition, John Wiley and Sons.
 }
-\examples{
-pairs(table.b23[,-c(1, 8)])
-}
 \keyword{datasets}

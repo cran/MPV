@@ -20,7 +20,4 @@ The \code{table.b24} data frame has 51 observations on 6 variables.
  Montgomery, D.C., Peck, E.A., and Vining, C.G. (2021)
 Introduction to Linear Regression Analysis. 6th Edition, John Wiley and Sons.
 }
-\examples{
-pairs(table.b24[,-1])
-}
 \keyword{datasets}

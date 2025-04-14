@@ -3,7 +3,7 @@
 \title{Table B19}
 \usage{data(table.b19)}
 \description{
-The \code{table.b19} data frame has 32 observations on 11 variables.
+The \code{table.b19} data frame has 32 observations on 11 variables. 
 }
 \format{
   This data frame contains the following columns:
@@ -24,8 +24,5 @@ The \code{table.b19} data frame has 32 observations on 11 variables.
 \source{
  Montgomery, D.C., Peck, E.A., and Vining, C.G. (2021)
 Introduction to Linear Regression Analysis. 6th Edition, John Wiley and Sons.
-}
-\examples{
-pairs(table.b19)
 }
 \keyword{datasets}

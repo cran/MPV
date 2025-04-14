@@ -22,7 +22,7 @@ The \code{table.b15} data frame has 60 observations on the mortality, environmen
 Introduction to Linear Regression Analysis. 6th Edition, John Wiley and Sons.
 }
 \references{
-McDonald, G. C. and Ayers, J.A. [1978], "Some applications of Chernuff faces: 
+McDonald, G. C. and Ayers, J.A. [1978], "Some applications of Chernoff faces: 
 A technique for graphically representing multivariate data", in 
 Graphical Representation of Multivariate Data, Academic Press, New York.
 }

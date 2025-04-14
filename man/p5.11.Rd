@@ -1,11 +1,10 @@
 \name{p5.11}
 \alias{p5.11}
-\title{Data Set for Problem 5-11 of the Third Edition of MPV}
+\title{Data Set for Problem 5-11}
 \usage{data(p5.11)}
 \description{
 The \code{p5.11} data frame has 8 observations on an 
-experiment with a catapult.  This data set is used in Exercise 5.13
-of the 6th edition of MPV.
+experiment with a catapult.
 }
 \format{
   This data frame contains the following columns:
@@ -23,10 +22,8 @@ of the 6th edition of MPV.
  Montgomery, D.C., Peck, E.A., and Vining, C.G. (2001)
 Introduction to Linear Regression Analysis. 3rd Edition, John Wiley and Sons.
 }
-\seealso{
-  \code{\link{p5.13}}
-}
 \examples{
+data(p5.11)
 attach(p5.11)
 ybar.i <- apply(p5.11[,5:7], 1, mean)
 sd.i <- apply(p5.11[,5:7], 1, sd)
